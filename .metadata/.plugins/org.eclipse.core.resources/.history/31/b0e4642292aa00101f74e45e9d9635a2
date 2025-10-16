@@ -1,0 +1,10 @@
+package homework_assignment_1_group_2_oops_owlz;
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("Hello baby");
+	}
+
+}

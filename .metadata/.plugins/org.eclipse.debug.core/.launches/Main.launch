@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+    <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+        <listEntry value="/homework_assignment_1_group_2_oops_owlz/src/homework_assignment_1_group_2_oops_owlz/Main.java"/>
+    </listAttribute>
+    <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+        <listEntry value="1"/>
+    </listAttribute>
+    <booleanAttribute key="org.eclipse.jdt.launching.ATTR_EXCLUDE_TEST_CODE" value="true"/>
+    <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="homework_assignment_1_group_2_oops_owlz.Main"/>
+    <stringAttribute key="org.eclipse.jdt.launching.MODULE_NAME" value="homework_assignment_1_group_2_oops_owlz"/>
+    <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="homework_assignment_1_group_2_oops_owlz"/>
+</launchConfiguration>
