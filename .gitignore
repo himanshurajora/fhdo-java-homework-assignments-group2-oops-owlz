@@ -1,3 +1,5 @@
-.metadata
 *.bin
 bin
+data_exchange
+.metadata
+*.log
